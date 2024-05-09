@@ -12,5 +12,9 @@ git commit: dua cac thay doi tu staging area sang local repository, dong thoi
 tao ra moy phien ban( có thể gọi là back up) tại thời điểm đó
 
 git remote: để kết nối local vs remote tức là đưa lên online
+(dùng 1 lần cho mỗi dự án)
 
 git push (origin master): đưa mã nguồn lên session online đã tạo
+
+git add . : đẩy, cập nhật các thay đổi vào staging sau đó chạy commit rồi push để
+cập nhật
