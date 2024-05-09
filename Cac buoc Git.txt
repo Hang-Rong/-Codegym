@@ -1,0 +1,16 @@
+Cac buoc luu ma nguon d
+GD 1: Code trong may
+GD 2 Dua vao kho(local repository)
+GD 3 Day len online(remote ropository)
+
+git init: Khoi tao local repository
+
+git add {ten file( index.html)} them file nhung chua hoan toan vao vi tri local 
+ma chi dc luu trong mot vung nho tam(staging area)
+
+git commit: dua cac thay doi tu staging area sang local repository, dong thoi
+tao ra moy phien ban( có thể gọi là back up) tại thời điểm đó
+
+git remote: để kết nối local vs remote tức là đưa lên online
+
+git push (origin master): đưa mã nguồn lên session online đã tạo
